@@ -51,3 +51,11 @@ footer.mdl-mini-footer > ul {
     display: flex;
   }
 }
+
+h2.mdl-card__title-text {
+  padding-left: 20%;
+}
+
+p.project-description.mdl-card__supporting-text {
+  padding-left: 20%;
+}
